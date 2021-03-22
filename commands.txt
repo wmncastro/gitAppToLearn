@@ -1,0 +1,14 @@
+git config --global user.email 'ext.wagner.castro@farfech.com'
+git config --global user.user 'ext.wagner.castro'
+git init 					// Initialized local git repository
+git add 					// Add files to index
+git rm --cached <file> 		// TO remove file git repository
+git status					// Check status of working tree
+git commit					// Commit Changes in Index Local
+git push					// Push to remote repository
+git pull					// Pull latest from remote repository
+git clone					// Copy projet from repository
+git show-branch				// To show list of branches
+git branch	<branch-name>	// To create a branch
+git checkout <branch-name>	// Switche/log in branch
+git merge <branch-name>		// To merge branch
